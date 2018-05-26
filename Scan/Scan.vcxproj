@@ -155,6 +155,7 @@
     <ClCompile Include="Scan.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="BlellochScan.cl" />
     <None Include="NaiveScan.cl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

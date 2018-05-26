@@ -1,5 +1,5 @@
 __kernel void naiveScan(
-	__global const int * restrict input,
+	__global const int * input,
 	__global int *output,
 	const int n)
 {

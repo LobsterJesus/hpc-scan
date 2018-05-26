@@ -28,5 +28,8 @@
     <None Include="NaiveScan.cl">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="BlellochScan.cl">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
